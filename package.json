@@ -1,0 +1,26 @@
+{
+  "name": "tokyo-night-muted",
+  "displayName": "Tokyo Night Muted",
+  "description": "Tokyo Night with minimal some muted colors",
+  "version": "0.0.1",
+  "publisher": "TomPollak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tom-pollak/tokyo-night-muted"
+  },
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Night - Muted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-muted-color-theme.json"
+      }
+    ]
+  }
+}

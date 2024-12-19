@@ -9,7 +9,7 @@
     "url": "https://github.com/tom-pollak/tokyo-night-muted"
   },
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.93.1"
   },
   "categories": [
     "Themes"

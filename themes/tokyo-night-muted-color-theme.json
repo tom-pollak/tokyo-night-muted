@@ -1,6 +1,6 @@
 {
 	// Tokyo Night With Minimal Changes
-	// 89DDFF -> #84CCE8 (maybe #70ccbd?)
+	// #89DDFF -> #66C1EE (markdown) | #7AA2F7 (code)
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
@@ -1105,7 +1105,7 @@
 				"meta.at-rule.function variable.parameter.url"
 			],
 			"settings": {
-				"foreground": "#84CCE8"
+				"foreground": "#7AA2F7"
 			}
 		},
 		{
@@ -1608,7 +1608,7 @@
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#84CCE8"
+				"foreground": "#66C1EE"
 			}
 		},
 		{
@@ -1620,7 +1620,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#84CCE8"
+				"foreground": "#66C1EE"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 				"heading.1.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#84CCE8",
+				"foreground": "#66C1EE",
 				"fontStyle": "bold"
 			}
 		},
@@ -1900,7 +1900,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#84CCE8"
+				"foreground": "#66C1EE"
 			}
 		},
 		{

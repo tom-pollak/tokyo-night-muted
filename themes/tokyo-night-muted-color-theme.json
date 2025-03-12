@@ -118,7 +118,7 @@
 		"editorLightBulb.foreground": "#e0af68",
 		"editorLightBulbAutoFix.foreground": "#e0af68",
 		"editorLineNumber.activeForeground": "#facc15",
-		"editorLineNumber.foreground":  "#6B7284", // "#8C9283",
+		"editorLineNumber.foreground": "#6B7284",
 		"editorLink.activeForeground": "#acb0d0",
 		"editorMarkerNavigation.background": "#16161e",
 		"editorOverviewRuler.addedForeground": "#164846",
@@ -943,7 +943,7 @@
 				"string.quoted.docstring.multi.python constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#51597D"
+				"foreground": "#8C9283"
 			}
 		},
 		{
